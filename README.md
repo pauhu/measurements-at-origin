@@ -1,4 +1,4 @@
-# Pauhu client
+# Pauhu Measurement Provenance
 
 Client for reading a local measurement record with its origin; checks come from the Pauhu demo backend.
 
@@ -8,3 +8,5 @@ Client for reading a local measurement record with its origin; checks come from 
 - MCP clients: [server.json](server.json) (remote, header `Authorization: Bearer <key>`).
 
 Status: proposed. Licence: Apache-2.0.
+
+Copyright © 2026 Pauhu Ltd. Written and maintained by Pauhu Ltd.
