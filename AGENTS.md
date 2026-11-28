@@ -22,6 +22,7 @@ Client for reading a local measurement record with its origin; checks come from 
 
 - Guess, probe or reconstruct the backend, or copy its output into a substitute.
 - Commit keys, tokens or personal data.
+- Obtain a developer key on your own, or ask a person to paste or tell you their key. The person sets the key in their own environment.
 
 ## Security
 
